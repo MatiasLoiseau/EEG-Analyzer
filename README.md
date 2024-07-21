@@ -51,3 +51,4 @@ The objective is to implement an analysis of these data, exploratory, supervised
 - pandas
 - jupyter
 - matplotlib
+- scikit-learn
